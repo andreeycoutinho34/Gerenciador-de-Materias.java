@@ -45,6 +45,15 @@ Este projeto foi desenvolvido para a disciplina de Programação Orientada a Obj
 
 Este projeto simula um sistema de gerenciamento de matérias/títulos e foi desenvolvido para fins educacionais, visando a prática dos conceitos de orientação a objetos e integração com banco de dados em Java.
 
+## Aviso sobre o Banco de Dados
+
+O banco de dados original utilizado neste projeto foi perdido.  
+Estou em processo de recriação da estrutura e dos dados necessários para o funcionamento do sistema.
+
+Assim que o novo script de criação do banco estiver pronto, ele será disponibilizado no repositório.
+
+Caso precise de algum modelo ou orientação sobre como criar o banco de dados, entre em contato ou aguarde a atualização deste README.
+
 ---
 
 Qualquer dúvida ou sugestão, fique à vontade para abrir uma issue!
